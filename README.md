@@ -28,7 +28,7 @@
 ## Assistant Teacher
 |Assoc.Prof.Dr. Chotipat Pornavalai|Assist.Prof. Dr. Sumet Prabhavat|Assist.Dr. Lapas Pradittasnee|
 |:-:|:-:|:-:|
-|![](img/xxx.jpg)|![](img/yyy.jpg)|![](img/zzz.jpg)|
+|![](img/Chotipat.jpg)|![](img/Sumet.jpg)|![](img/Lapas.jpg)|
 <br>
 ==================================================================================<br><br>
 รายงาน และ ซอร์สโค้ดนี้ เป็นส่วนหนึ่งของวิชา 
