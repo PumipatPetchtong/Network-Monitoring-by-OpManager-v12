@@ -30,10 +30,11 @@
 ## Team Members
 | Profile |ชื่อ|นามสกุล|GitHub Username|รหัสนักศึกษา|
 |:-:|--|------|---------------|---------|
-|![https://www.facebook.com/pluemmooiuan](assets/nathachai.jpg)|Porames|Jariyayanyong|[@huayong1678](https://github.com/huayong1678)|61070115|
-|![www.facebook.com/jumpnajaa.f](assets/paramin.jpg)|Napajorn|Yongstar|[@Napajorninwza](https://github.com/Napajorninwza)|61070096|
-|![https://www.facebook.com/yui.ammrar](assets/porames.jpg)|Ammara|Donglong|[@61070267](https://github.com/61070267)|61070267|
-|![https://www.facebook.com/7eay.mask](assets/saharat.jpg)|Nawabhorn|Charattrakool|[@plynawabhorn](https://github.com/plynawabhorn)|61070101|<br><br>
+|![https://www.facebook.com/nbangkung](assets/nathachai.jpg)|Nathachai|Shinatsawasophon|[@exzenous](https://github.com/exzenous)|61070049|
+|![https://www.facebook.com/profile.php?id=100003269848357](assets/paramin.jpg)|Paramin|Soontornsanee|[@Paramin11798](https://github.com/Paramin11798)|61070114|
+|![https://www.facebook.com/pluemmooiuan](assets/porames.jpg)|Porames|Jariyayanyong|[@huayong1678](https://github.com/huayong1678)|61070115|
+|![https://www.facebook.com/fluke.saharat](assets/saharat.jpg)|Saharat|Pongpanichpund|[@fluk14150](https://github.com/fluk14150)|61070237|
+|![https://www.facebook.com/Boeing.Aramsr](assets/itthidej.jpg)|Itthidej|Aramsri|[@Itthidej](https://github.com/Itthidej)|61070271|<br><br>
 
 
 ## Assistant Teacher
