@@ -6,17 +6,7 @@
 *Keywords : Microcontroller Farm Automation*<br><br>
 
 
-## Objective
-* ลดค่าใช้จ่ายในกูดูแลรักษาพืชทางการเกษตร
-* เพิ่มประสิทธิภาพในการดูแลรักษาพืชทางการเกษตร
-* สามารถตรวจความชื้นแบบเรียลไทม์ได้
-<br><br>
-
-
-## Features
-* Real-time Mornitoring 
-* Automate Watering System
-* Wireless Controlling via Blynk©
+## Document Link
 <br><br>
 
 
@@ -36,9 +26,9 @@
 
 
 ## Assistant Teacher
-|Assoc.Prof.Kitsuchart Pasupa|Assoc.Prof.Panwit Tuwanut|
-|:-:|:-:|
-|![](img/xxx.jpg)|![](img/yyy.jpg)|
+|รศ.ดร. โชติพัชร์ ภรณวลัย|ผศ.ดร. สุเมธ ประภาวัต|ดร. ลภัส ประดิษฐ์ทัศนีย์|
+|:-:|:-:|:-:|
+|![](img/xxx.jpg)|![](img/yyy.jpg)|![](img/yyy.jpg)|
 <br>
 ==================================================================================<br><br>
 รายงาน และ ซอร์สโค้ดนี้ เป็นส่วนหนึ่งของวิชา 
