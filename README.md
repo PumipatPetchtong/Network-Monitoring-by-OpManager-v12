@@ -6,11 +6,12 @@
 
 
 ## Document Link
-Link : https://drive.google.com/file/d/1vwLkPWTu9z4OV40RCy09hR_8bZOj_G88/view?usp=sharing
+Link : https://docs.google.com/document/d/1xHnTN_NtjH1FXZrJxqrzoyvEb9j8vUmcxB0VydrtZdo/edit?usp=sharing
 <br><br>
 
 
 ## Demonstrate Video
+Link : COMING SOON
 [![](img/aaa.png)](https://www.youtube.com/watch?v=bZT4UT5Ej2Q&feature=youtu.be "")
 <br><br>
 
