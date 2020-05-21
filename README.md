@@ -1,6 +1,7 @@
 ![](assets/opmanager.png)<br><br>
 
 ## Network Monitoring by OpManager v12
+![](assets/dashboard.png)<br><br>
    OpManager เป็นแพลตฟอร์มการจัดการเครือข่ายแบบบูรณาการที่ช่วยให้องค์กรขนาดใหญ่ ผู้ให้บริการ และ SMEs จัดการศูนย์ข้อมูลและโครงสร้างพื้นฐานด้านไอทีอย่างมีประสิทธิภาพและคุ้มค่า มันมีการตรวจสอบประสิทธิภาพเครือข่ายการตรวจสอบทางกายภาพและเซิร์ฟเวอร์เสมือนการวิเคราะห์ปริมาณข้อมูลการจัดการการกำหนดค่าการจัดการบันทึกไฟร์วอลล์และการจัดการที่อยู่ IP มีมุมมองทางธุรกิจ, การแจ้งเตือนตามอีเมล / SMS, เวิร์กโฟลว์อัตโนมัติรายงานที่กำหนดเองและมุมมองภาพรวม<br>
 Go to Site : [ManageEngine OpManager Site](https://www.manageengine.com/network-monitoring/index2.html)<br>
 Downloads Here : [ManageEngine OpManager Downloads](https://www.manageengine.com/network-monitoring/download.html)<br>
